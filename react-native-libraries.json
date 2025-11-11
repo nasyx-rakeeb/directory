@@ -18266,5 +18266,17 @@
     "android": true,
     "web": true,
     "expoGo": true
+  },
+  {
+    "githubUrl": "https://github.com/nasyx-rakeeb/react-native-frame-capture",
+    "npmPkg": "react-native-frame-capture",
+    "examples": [
+      "https://github.com/nasyx-rakeeb/react-native-frame-capture/tree/main/example",
+      "https://github.com/nasyx-rakeeb/react-native-frame-capture/blob/main/docs/usage-examples.md"
+    ],
+    "android": true,
+    "expo": true,
+    "newArchitecture": true,
+    "configPlugin": true
   }
 ]
